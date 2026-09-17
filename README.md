@@ -6,7 +6,7 @@ The project focuses on creating a functional online store with special attention
 
 ## Live Demo
 
-**[View the live application](YOUR_LIVE_DEMO_LINK)**
+**[View the live application](https://seke-webshop.vercel.app)**
 
 ## About the Project
 
